@@ -68,8 +68,8 @@ Uma Livrária Online e Gratuita onde qualquer um pode fazer posts de livros e co
 - [Outras tecnologias utilizadas]
 
 **Servidor**
-- [Express](https://nextjs.org/)
-- [Postgress](https://nextjs.org/)
+- [NestJs](https://nextjs.org/)
+- [Prisma](https://nextjs.org/)
 - [JWT](https://reactjs.org/)
 - [SendGrid](https://docs.sendgrid.com/for-developers/sending-email/quickstart-nodejs)
 - [Outras tecnologias utilizadas]
